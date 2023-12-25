@@ -22,6 +22,31 @@ var headerData = {
             ]
         },
         {
+            "title": "AI in Cloud",
+            "links": [
+                { "label": "Google Vertex AI", "url": "https://console.cloud.google.com/vertex-ai" },                
+                { "label": "Azure AI Services", "url": "https://portal.azure.com" },
+                { "label": "AWS SageMaker", "url": "https://console.aws.amazon.com/sagemaker?p=pm&c=sm&z=1" },
+                { "label": "Open AI", "url": "https://platform.openai.com/login?launch" },
+            ]
+        },
+        {
+            "title": "Youtube Links",
+            "links": [
+                { "label": "seaborn", "url": "https://www.youtube.com/watch?v=ooqXQ37XHMM" },
+            ]
+        },
+        {
+            "title": "AI Tools",
+            "links": [
+                { "label": "Coral Google TPU", "url": "https://coral.ai/products/" },
+                { "label": "Cuebric", "url": "https://cuebric.com/" },
+                { "label": "Lensa - Prisma Labs", "url": "https://prisma-ai.com/lensa" },
+                { "label": "Avatar Maker", "url": "https://avatarmaker.com/" },
+                { "label": "Youtube Summary", "url": "https://vidrapid.com/" },
+            ]
+        },
+        {
             "title": "AI Image/Video Tools",
             "links": [
                 { "label": "Adobe Firefly", "url": "https://firefly.adobe.com/upload/inpaint#" },
@@ -38,23 +63,8 @@ var headerData = {
                 { "label": "CodeDesign.ai", "url": "https://codedesign.ai/" },
                 { "label": "0Web", "url": "https://10web.io/" },
             ]
-        },
-        {
-            "title": "AI Tools",
-            "links": [
-                { "label": "Coral Google TPU", "url": "https://coral.ai/products/" },
-                { "label": "Cuebric", "url": "https://cuebric.com/" },
-                { "label": "Lensa - Prisma Labs", "url": "https://prisma-ai.com/lensa" },
-                { "label": "Avatar Maker", "url": "https://avatarmaker.com/" },
-                { "label": "Youtube Summary", "url": "https://vidrapid.com/" },
-            ]
-        },
-        {
-            "title": "Youtube Links",
-            "links": [
-                { "label": "seaborn", "url": "https://www.youtube.com/watch?v=ooqXQ37XHMM" },
-            ]
-        },
+        },        
+
 
     ]
 };
@@ -66,6 +76,7 @@ var sliderData = {
             "links": [
                 { "label": "huggingface", "url": "https://huggingface.co/" },
                 { "label": "kaggle", "url": "https://www.kaggle.com/" },
+                { "label": "Google Colab", "url": "https://colab.research.google.com/" },
                 //{ "label": "", "url": "" },
             ]
         },
