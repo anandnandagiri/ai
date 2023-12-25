@@ -34,3 +34,13 @@ h5 {
 #cslider {
     background-color: #dfa6af;
 }
+
+#menu {
+    background-color: #bc5a5a;
+}
+
+    #menu a{
+        text-decoration:none;
+        color:white;
+        margin-left:1rem;
+    }

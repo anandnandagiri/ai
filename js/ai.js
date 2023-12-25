@@ -30,12 +30,7 @@ var headerData = {
                 { "label": "Open AI", "url": "https://platform.openai.com/login?launch" },
             ]
         },
-        {
-            "title": "Youtube Links",
-            "links": [
-                { "label": "seaborn", "url": "https://www.youtube.com/watch?v=ooqXQ37XHMM" },
-            ]
-        },
+
         {
             "title": "AI Tools",
             "links": [
