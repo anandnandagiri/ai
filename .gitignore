@@ -1,0 +1,46 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+
+# Angular
+node_modules/
+.NET Core/.NET Core 3.1/GoogleOAuth
+.NET Core/.NET Core 3.1/GoogleStorage/GoogleStorage/disco-bedrock-238412-18955f7057ef.json
+
+# OCR
+.NET Core/.NET Core 3.1/OCR/OCR/feed/inbound/*
+.NET Core/.NET Core 3.1/OCR/OCR/feed/outbound/*
