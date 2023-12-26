@@ -1,5 +1,5 @@
 body {
-    background-color: #e5bcc2;
+    background-color: #e3b8be;
     font-size: 20px;
     color: white;
 }
@@ -22,7 +22,7 @@ h5 {
 
 .btnsmall {
     border: none;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     padding: 0px 10px 0px 10px;
 }
 
@@ -31,8 +31,13 @@ h5 {
     border-color: deeppink;
 }
 
+#cheader {
+    background-color: #e4a1ac;
+    border-radius: 50px;    
+}
+
 #cslider {
-    background-color: #dfa6af;
+    /*background-color: #e2afb7;*/
 }
 
 #menu {
@@ -43,4 +48,12 @@ h5 {
         text-decoration:none;
         color:white;
         margin-left:1rem;
+    }
+
+#gtable {
+    font-size: 1.1rem;
+}
+    #gtable tr{        
+    }
+    #gtable td {
     }
