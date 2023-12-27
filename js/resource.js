@@ -34,16 +34,14 @@ var headerData = {
             "title": "Documentation",
             "links": [
                 { "label": "ollama Supported Models", "url": "https://ollama.ai/library" },
-                { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/vllm/" },
-                { "label": "Doc 2", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
+                { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/vllm/" },                
                 //{ "label": "", "url": "" },
             ]
         },
         {
             "title": "Blogs",
             "links": [
-                { "label": "ollama", "url": "https://ollama.ai/blog" },
-                { "label": "Blog 2", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
+                { "label": "ollama", "url": "https://ollama.ai/blog" },               
                 //{ "label": "", "url": "" },
             ]
         },
