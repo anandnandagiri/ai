@@ -109,6 +109,7 @@ var headerData= {
                 { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },
                 { "label": "LM Studio", "url": "https://lmstudio.ai/" },
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
+                 { "label": "Langsmith", "url": "https://smith.langchain.com/" },
             ]
         },
         {
