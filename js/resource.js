@@ -1,23 +1,6 @@
 
 var headerData = {
     "headers": [
- 
-        {
-            "title": "Blogs",
-            "links": [
-                { "label": "Blog 1", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
-                { "label": "Blog 2", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
-                //{ "label": "", "url": "" },
-            ]
-        },
-        {
-            "title": "Documentation",
-            "links": [
-                { "label": "Doc 1", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
-                { "label": "Doc 2", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
-                //{ "label": "", "url": "" },
-            ]
-        },
         {
             "title": "Youtube Links",
             "links": [
@@ -28,6 +11,43 @@ var headerData = {
                 { "label": "seaborn", "url": "https://www.youtube.com/watch?v=ooqXQ37XHMM" },
             ]
         },
+       {
+            "title": "Docker Hub",
+            "links": [
+                //{ "label": "", "url": "" },
+                { "label": "portainer-ce", "url": "https://hub.docker.com/r/portainer/portainer-ce" },				
+                { "label": "Jupyter Notes Datascience", "url": "https://hub.docker.com/r/jupyter/datascience-notebook" },	
+                { "label": "flowise", "url": "https://hub.docker.com/r/flowiseai/flowise" },
+                { "label": "ollama", "url": "https://hub.docker.com/r/ollama/ollama" },
+				{ "label": "ollama WebUI", "url": "https://hub.docker.com/r/ollamawebui/ollama-webui" },
+				
+            ]
+        },
+         {
+            "title": "Source Code",
+            "links": [
+                //{ "label": "", "url": "" },
+                { "label": "Ollama-Chatbot By ssrang992", "url": "https://github.com/srang992/Ollama-Chatbot/blob/main/" },                    
+            ]
+        },
+        {
+            "title": "Documentation",
+            "links": [
+                { "label": "ollama Supported Models", "url": "https://ollama.ai/library" },
+                { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/vllm/" },
+                { "label": "Doc 2", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
+                //{ "label": "", "url": "" },
+            ]
+        },
+        {
+            "title": "Blogs",
+            "links": [
+                { "label": "ollama", "url": "https://ollama.ai/blog" },
+                { "label": "Blog 2", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
+                //{ "label": "", "url": "" },
+            ]
+        },
+
     ]
 };
 
