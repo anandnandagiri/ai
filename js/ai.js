@@ -22,7 +22,7 @@ var sliderData = {
         },
 
         {
-            "title": "Vectore Store",
+            "title": "Vector Store",
             "links": [
                 //{ "label": "", "url": "" },
                 { "label": "Chroma", "url": "https://www.trychroma.com/" },
