@@ -2,6 +2,39 @@
 var sliderData = {
     "headers": [
         {
+            "title": "LLM Tools",
+            "links": [
+                { "label": "ollma", "url": "https://ollama.ai/" },
+                { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },
+                { "label": "LM Studio", "url": "https://lmstudio.ai/" },
+                { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
+                { "label": "Langsmith", "url": "https://smith.langchain.com/" },
+            ]
+        },
+        {
+            "title": "LLAMA Models",
+            "links": [
+                { "label": "orca 2 7B", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
+                { "label": "MISTRAL 7B", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
+                { "label": "llama2", "url": "https://huggingface.co/meta-llama" },
+                //{ "label": "", "url": "" },
+            ]
+        },
+
+        {
+            "title": "Vectore Store",
+            "links": [
+                //{ "label": "", "url": "" },
+                { "label": "Chroma", "url": "https://www.trychroma.com/" },
+                { "label": "Milvus", "url": "https://milvus.io/" },
+                { "label": "Pinecone", "url": "https://www.pinecone.io/" },
+                { "label": "Vespa", "url": "https://vespa.ai/" },
+                { "label": "Elasticsearch ", "url": "https://www.elastic.co/elasticsearch/" },
+                { "label": "Pgvector", "url": "https://github.com/pgvector/pgvector" },
+                { "label": "Faiss", "url": "https://github.com/facebookresearch/faiss" },
+            ]
+        },     
+        {
             "title": "AI GitHub",
             "links": [
                 //{ "label": "", "url": "" },
@@ -26,44 +59,6 @@ var sliderData = {
                 { "label": "Futurepedia", "url": "https://www.futurepedia.io/" },
             ]
         },
-        {
-            "title": "AI in Cloud",
-            "links": [
-                { "label": "Google Vertex AI", "url": "https://console.cloud.google.com/vertex-ai" },                
-                { "label": "Azure AI Services", "url": "https://portal.azure.com" },
-                { "label": "AWS SageMaker", "url": "https://console.aws.amazon.com/sagemaker?p=pm&c=sm&z=1" },
-                { "label": "Open AI", "url": "https://platform.openai.com/login?launch" },
-            ]
-        },
-
-        {
-            "title": "AI Tools",
-            "links": [
-                { "label": "Avatar Maker", "url": "https://avatarmaker.com/" },
-                { "label": "Youtube Summary", "url": "https://vidrapid.com/" },
-                { "label": "zzzCode", "url": "https://zzzcode.ai" },
-                { "label": "Coral Google TPU", "url": "https://coral.ai/products/" },
-                { "label": "Cuebric", "url": "https://cuebric.com/" },
-                { "label": "Lensa - Prisma Labs", "url": "https://prisma-ai.com/lensa" },                            ]
-        },
-        {
-            "title": "AI Image/Video Tools",
-            "links": [
-                { "label": "Adobe Firefly", "url": "https://firefly.adobe.com/upload/inpaint#" },
-                { "label": "Canvas", "url": "https://www.canva.com" },
-                { "label": "Increase Resolution", "url": "https://replicate.com/mv-lab/swin2sr" },
-                { "label": "Cutout.Pro", "url": "https://www.cutout.pro/" },
-                { "label": "flairAI display product", "url": "https://flair.ai/" },
-                { "label": "remini ai", "url": "https://remini.ai/" },
-            ]
-        },
-        {
-            "title": "AI WebSite Builder Tools",
-            "links": [
-                { "label": "CodeDesign.ai", "url": "https://codedesign.ai/" },
-                { "label": "0Web", "url": "https://10web.io/" },
-            ]
-        },        
 
 
     ]
@@ -92,7 +87,7 @@ var headerData= {
             "links": [
                 { "label": "Flowise", "url": "https://flowiseai.com/" },
                 { "label": "LangFlow", "url": "https://www.langflow.org/" },
-                { "label": "llmstack", "url": "https://llmstack.ai/" },
+                { "label": "LLMstack", "url": "https://llmstack.ai/" },
             ]
         },
 
@@ -103,22 +98,14 @@ var headerData= {
                 //{ "label": "", "url": "" },						
             ]
         },
+
         {
-            "title": "LLM Tools",
+            "title": "AI in Cloud",
             "links": [
-                { "label": "ollma", "url": "https://ollama.ai/" },
-                { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },
-                { "label": "LM Studio", "url": "https://lmstudio.ai/" },
-                { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
-                 { "label": "Langsmith", "url": "https://smith.langchain.com/" },
-            ]
-        },
-        {
-            "title": "LLAMA Models",
-            "links": [
-                { "label": "orca 2 7B", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
-                { "label": "MISTRAL 7B", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
-                //{ "label": "", "url": "" },
+                { "label": "Google Vertex AI", "url": "https://console.cloud.google.com/vertex-ai" },
+                { "label": "Azure AI Services", "url": "https://portal.azure.com" },
+                { "label": "AWS SageMaker", "url": "https://console.aws.amazon.com/sagemaker?p=pm&c=sm&z=1" },
+                { "label": "Open AI", "url": "https://platform.openai.com/login?launch" },
             ]
         },       
     ]

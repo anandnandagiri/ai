@@ -17,8 +17,11 @@
     </div>
     <div class="container-fluid mt-1">
         <div class="row pt-5 ml-3">
-            <div class="col-md-12">
-                <div id="headers"></div>
+            <div class="col-md-6">
+                <div id="firstCol"></div>
+            </div>
+            <div class="col-md-6">
+                <div id="secondCol"></div>
             </div>
         </div>
     </div>
@@ -33,7 +36,8 @@
     <script src="./js/resource.js"></script>
     <script>
         $(document).ready(function () {
-            generateLinks(headerData, 'headers');
+            generateLinks(firstColData, 'firstCol');
+            generateLinks(secondColData, 'secondCol');
         });
     </script>
 </body>
