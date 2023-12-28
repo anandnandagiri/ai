@@ -12,11 +12,11 @@ var sliderData = {
             ]
         },
         {
-            "title": "LLAMA Models",
+            "title": "LLM Models",
             "links": [
-                { "label": "orca 2 7B", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
+                { "label": "ORCA 2 7B", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
                 { "label": "MISTRAL 7B", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
-                { "label": "llama2", "url": "https://huggingface.co/meta-llama" },
+                { "label": "LLAMA2", "url": "https://huggingface.co/meta-llama" },
                 //{ "label": "", "url": "" },
             ]
         },
@@ -41,6 +41,8 @@ var sliderData = {
                 { "label": "langchain", "url": "https://github.com/langchain-ai/langchain/tree/master" },
                 { "label": "ollama", "url": "https://github.com/jmorganca/ollama" },
                 { "label": "GPT4ALL", "url": "https://github.com/nomic-ai/gpt4all" },
+                { "label": "privateGPT", "url": "https://github.com/imartinez/privateGPT.git" },
+                { "label": "localGPT", "url": "https://github.com/PromtEngineer/localGPT.git" },
                 { "label": "ONNX Runtime", "url": "https://github.com/microsoft/onnxruntime" },
             ]
         },
@@ -79,6 +81,7 @@ var headerData= {
             "title": "AI Framework",
             "links": [
                 { "label": "langchain", "url": "https://www.langchain.com/" },
+                { "label": "LlamaIndex", "url": "https://www.llamaindex.ai/" },	
                 //{ "label": "", "url": "" },						
             ]
         },

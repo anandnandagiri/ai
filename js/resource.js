@@ -18,6 +18,8 @@ var firstColData = {
             "links": [
                 //{ "label": "", "url": "" },
                 { "label": "Ollama-Chatbot By ssrang992", "url": "https://github.com/srang992/Ollama-Chatbot/blob/main/" },                    
+                { "label": "Prompt Engineer 24 Ollama", "url": "https://github.com/PromptEngineer48/Ollama/tree/main" },
+                
             ]
         },
         {
