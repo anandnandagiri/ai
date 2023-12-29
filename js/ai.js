@@ -5,7 +5,8 @@ var sliderData = {
             "title": "LLM Tools",
             "links": [
                 { "label": "ollma", "url": "https://ollama.ai/" },
-                { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },
+                { "label": "AnythinkLLM", "url": "https://useanything.com/" },
+                { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },                
                 { "label": "LM Studio", "url": "https://lmstudio.ai/" },
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
                 { "label": "Langsmith", "url": "https://smith.langchain.com/" },
@@ -25,6 +26,7 @@ var sliderData = {
             "title": "Vector Store",
             "links": [
                 //{ "label": "", "url": "" },
+                { "label": "Google AlloyDB", "url": "https://cloud.google.com/alloydb#all-features" },
                 { "label": "Chroma", "url": "https://www.trychroma.com/" },
                 { "label": "Milvus", "url": "https://milvus.io/" },
                 { "label": "Pinecone", "url": "https://www.pinecone.io/" },
@@ -40,6 +42,7 @@ var sliderData = {
                 //{ "label": "", "url": "" },
                 { "label": "langchain", "url": "https://github.com/langchain-ai/langchain/tree/master" },
                 { "label": "ollama", "url": "https://github.com/jmorganca/ollama" },
+                { "label": "anything-llm", "url": "https://github.com/Mintplex-Labs/anything-llm" },
                 { "label": "GPT4ALL", "url": "https://github.com/nomic-ai/gpt4all" },
                 { "label": "privateGPT", "url": "https://github.com/imartinez/privateGPT.git" },
                 { "label": "localGPT", "url": "https://github.com/PromtEngineer/localGPT.git" },

@@ -85,6 +85,11 @@ var secondColData = {
         {
             "title": "Youtube Links",
             "links": [               
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
+                { "label": "AnythingLLM V2", "url": "https://www.youtube.com/watch?v=f95rGD9trL0" },
+                { "label": "AnythingLLM", "url": "https://www.youtube.com/watch?v=0vZ69AIP_hM" },
+                { "label": "Private Chroma Vector Database locally", "url": "https://www.youtube.com/watch?v=61kaK-e3Owc" },
                 { "label": "PrivateGPT 2.0", "url": "https://www.youtube.com/watch?v=XFiof0V3nhA" },
                 { "label": "RAG Demo with Ollama", "url": "https://www.youtube.com/watch?v=-1sdWLr3TbI&list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ&index=1" },
                 { "label": "Langchain with Ollam", "url": "https://www.youtube.com/watch?v=CPgp8MhmGVY" },
