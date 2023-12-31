@@ -16,6 +16,7 @@ var sliderData = {
             "title": "LLM Models",
             "links": [
                 { "label": "ORCA 2 7B", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
+                { "label": "VICUNA 13B v1.3", "url": "https://huggingface.co/lmsys/vicuna-13b-v1.3" },
                 { "label": "MISTRAL 7B", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
                 { "label": "LLAMA2", "url": "https://huggingface.co/meta-llama" },
                 //{ "label": "", "url": "" },
@@ -34,6 +35,7 @@ var sliderData = {
                 { "label": "Elasticsearch ", "url": "https://www.elastic.co/elasticsearch/" },
                 { "label": "Pgvector", "url": "https://github.com/pgvector/pgvector" },
                 { "label": "Faiss", "url": "https://github.com/facebookresearch/faiss" },
+                { "label": "Vector Admin", "url": "https://github.com/Mintplex-Labs/vector-admin" },
             ]
         },     
         {

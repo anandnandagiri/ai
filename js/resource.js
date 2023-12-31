@@ -34,12 +34,15 @@ var firstColData = {
             "title": "Blogs",
             "links": [
                 { "label": "ollama", "url": "https://ollama.ai/blog" },               
-                //{ "label": "", "url": "" },
+                { "label": "vicuna ai model for chatbot", "url": "https://medium.com/mlearning-ai/the-significance-of-vicuna-an-open-source-large-language-model-for-chatbots-23b4765711ff" },
+                { "label": "Best LLMs Under-13B", "url": "https://deci.ai/blog/small-giants-top-10-under-13b-llms-in-open-source/" },
             ]
         },
         {
             "title": "GPU Cloud Provider",
             "links": [
+                { "label": "vast.ai", "url": "https://vast.ai/" },
+                { "label": "runpod.io", "url": "https://www.runpod.io/" },
                 { "label": "Cloud GPU Comparison", "url": "https://cloud-gpus.com/" },
                 //{ "label": "", "url": "" },
             ]
@@ -89,6 +92,7 @@ var secondColData = {
                 //{ "label": "", "url": "" },
                 { "label": "AnythingLLM V2", "url": "https://www.youtube.com/watch?v=f95rGD9trL0" },
                 { "label": "AnythingLLM", "url": "https://www.youtube.com/watch?v=0vZ69AIP_hM" },
+                { "label": "Vector Admin", "url": "https://www.youtube.com/watch?v=cW8Eohz6pzs" },
                 { "label": "Private Chroma Vector Database locally", "url": "https://www.youtube.com/watch?v=61kaK-e3Owc" },
                 { "label": "PrivateGPT 2.0", "url": "https://www.youtube.com/watch?v=XFiof0V3nhA" },
                 { "label": "RAG Demo with Ollama", "url": "https://www.youtube.com/watch?v=-1sdWLr3TbI&list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ&index=1" },

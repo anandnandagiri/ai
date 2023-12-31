@@ -57,3 +57,13 @@ h5 {
     }
     #gtable td {
     }
+#htable {
+    font-size: 1rem;
+}
+    #htable .bg-success {
+        background-color: #218838;
+    }
+#htable .col {    
+    background-color: deeppink;
+    color: white
+}

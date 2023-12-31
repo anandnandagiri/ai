@@ -34,3 +34,11 @@ function generateTable(data, tabletag) {
     });
     $("#" + tabletag).html(rows);
 }
+
+function generateTable3td(data, tabletag) {
+    var rows = "";
+    data.forEach(function (item) {
+        rows += "<tr><td class='bg-success text-white'>" + item.td1 + "</td><td>" + item.td2 + "</td><td>" + item.td3 + "</td></tr>";
+    });
+    $("#" + tabletag).html(rows);
+}
