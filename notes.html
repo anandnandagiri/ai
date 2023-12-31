@@ -7,6 +7,17 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css">
     <link href="./css/style.css" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
+    <style>
+        .notes {
+            color: black;
+            font-size: 1rem;
+        }
+
+        .pc {
+            position: relative;
+            left: 10px;
+        }
+    </style>
 </head>
 <body>
     <div class="container-fluid" id="menu">
@@ -16,14 +27,46 @@
         <a href="./history.html">History</a>
         <a href="./notes.html">Notes</a>
     </div>
+    <div class="container-fluid mt-3">
+        <div id="notes">
+            <b>Model: Mixtral-8x7B-Instruct-v0.1 </b><br /><br />
+            <!--<table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th class="col">Parameter</th>
+                        <th class="col">Descriptions</th>
+                    </tr>
+                </thead>
+                <tbody id="mtable">
+                </tbody>
+            </table>-->
 
+            <div class="pc">
+                <b>8x:</b> This represent comparsion speed<br />
+                <b>Model Size 7B: </b> The overall size of the model, often measured in terms of parameters (e.g., 7B for 7 billion parameters).<br />
+                <b>v0.1:</b> This will be version of the Model
+                <b>Dataset Size (Training tokens)</b>: 250B tokens, This refers to the size of the training dataset in terms of tokens.
+                Tokens are units of text used during the training process. The dataset size is often measured
+                in the number of tokens (words, subwords, or characters, depending on tokenization). For instance,
+                if the dataset has 250 billion tokens, it means there are 250 billion units of text used for training or 1.4T tokens, Model was trained on a dataset
+                containing 1.4 trillion tokens, contributing to the model's understanding of language patterns and contexts.<br />
+                <b>Context Length (num_ctx): </b>2048 tokens, The maximum number of tokens considered as context during inference or generation (e.g., 2048 tokens).<br />
+                <b>Sequence Length</b><br />
+                <b>Dimension, Embedding Dimension </b><br />
+                <b>Temperature</b><br />
+                <b>Seed</b><br />
+            </div>
+        </div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/notes.js"></script>
     <script src="./js/core.js"></script>
+
     <script>
         $(document).ready(function () {
-
+            generateTable(mData, "mtable");
         });
     </script>
 
