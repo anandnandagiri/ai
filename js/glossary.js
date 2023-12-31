@@ -15,6 +15,9 @@ var tableData = [
     { "td1": "Sentiment Analysis", "td2": "" },
     { "td1": "Token", "td2": "In natural language processing and machine learning, a token is a unit of text, which could be as short as one character or as long as one word" },
     { "td1": "Tokenization", "td2": "Word Tokenization, Sub-Word Tokenization, Character Tokenization" },
+    { "td1": "LoRA", "td2": "(Low - Rank Adaptation)" },
+    //{ "td1": "", "td2": "" },
+    
 ];
 
 //="{""td1"":"""&A1&""",""td2"":"""&B1&"""},"

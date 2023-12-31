@@ -15,8 +15,7 @@ var firstColData = {
         },
          {
             "title": "Source Code",
-            "links": [
-                //{ "label": "", "url": "" },
+            "links": [                
                 { "label": "Ollama-Chatbot By ssrang992", "url": "https://github.com/srang992/Ollama-Chatbot/blob/main/" },                    
                 { "label": "Prompt Engineer 24 Ollama", "url": "https://github.com/PromptEngineer48/Ollama/tree/main" },
                 
@@ -26,7 +25,9 @@ var firstColData = {
             "title": "Documentation",
             "links": [
                 { "label": "ollama Supported Models", "url": "https://ollama.ai/library" },
-                { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/vllm/" },                
+                { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/vllm/" },   
+                { "label": "Google Models", "url": "https://ai.google.dev/models" },
+                { "label": "Google PALM 2", "url": "https://beebom.com/google-palm-2-ai-model/" },
                 //{ "label": "", "url": "" },
             ]
         },
