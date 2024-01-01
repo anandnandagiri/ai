@@ -60,7 +60,6 @@ var secondColData = {
             "title": "AI Tools",
             "links": [
                 //{ "label": "", "url": "" },
-                //{ "label": "", "url": "" },
                 { "label": "SVG Repo", "url": "https://www.svgrepo.com/" },
                 { "label": "Avatar Maker", "url": "https://avatarmaker.com/" },
                 { "label": "Youtube Summary", "url": "https://vidrapid.com/" },
@@ -106,7 +105,12 @@ var secondColData = {
                 { "label": "seaborn", "url": "https://www.youtube.com/watch?v=ooqXQ37XHMM" },
                 { "label": "Demo Cloudflare Worker AI", "url": "https://www.youtube.com/watch?v=bUe7cGxItvo" },
                 { "label": "RAG Demo with Ollama", "url": "https://www.youtube.com/watch?v=-1sdWLr3TbI&list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ&index=1" },
-
+                { "label": "Playlist of Learn with Mark", "url": "https://www.youtube.com/watch?v=Tg0BaKpaoTg&list=PLw2SS5iImhETln6AD746Bt3XE6bV0xwKD&index=6" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
             ]
         },
        
