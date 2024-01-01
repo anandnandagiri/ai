@@ -10,6 +10,7 @@ var sliderData = {
                 { "label": "LM Studio", "url": "https://lmstudio.ai/" },
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
                 { "label": "Langsmith", "url": "https://smith.langchain.com/" },
+                { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },
             ]
         },
         {
@@ -115,7 +116,15 @@ var headerData= {
                 { "label": "AWS SageMaker", "url": "https://console.aws.amazon.com/sagemaker?p=pm&c=sm&z=1" },
                 { "label": "Open AI", "url": "https://platform.openai.com/login?launch" },
             ]
-        },       
+        },    
+
+        {
+            "title": "Beta Phase",
+            "links": [
+                { "label": "Cloudflare Worker AI", "url": "https://dash.cloudflare.com/" },
+                //{ "label": "", "url": "" },						
+            ]
+        },
     ]
 };
 

@@ -89,20 +89,23 @@ var secondColData = {
         {
             "title": "Youtube Links",
             "links": [               
-                //{ "label": "", "url": "" },
-                //{ "label": "", "url": "" },
+                
                 { "label": "AnythingLLM V2", "url": "https://www.youtube.com/watch?v=f95rGD9trL0" },
                 { "label": "AnythingLLM", "url": "https://www.youtube.com/watch?v=0vZ69AIP_hM" },
                 { "label": "Vector Admin", "url": "https://www.youtube.com/watch?v=cW8Eohz6pzs" },
+                { "label": "Vector Database", "url": "https://www.youtube.com/watch?v=72XgD322wZ8" },
+                { "label": "Gradient Fine Tune LLM Model", "url": "https://www.youtube.com/watch?v=7mOD9kgqRf0&t=383s" },
                 { "label": "Private Chroma Vector Database locally", "url": "https://www.youtube.com/watch?v=61kaK-e3Owc" },
                 { "label": "PrivateGPT 2.0", "url": "https://www.youtube.com/watch?v=XFiof0V3nhA" },
-                { "label": "RAG Demo with Ollama", "url": "https://www.youtube.com/watch?v=-1sdWLr3TbI&list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ&index=1" },
                 { "label": "Langchain with Ollam", "url": "https://www.youtube.com/watch?v=CPgp8MhmGVY" },
                 { "label": "Ollama meets LangChain", "url": "https://www.youtube.com/watch?v=k_1pOF1mj8k" },
                 { "label": "Google Colab - Beginners", "url": "https://www.youtube.com/watch?v=RLYoEyIHL6A" },
                 { "label": "Nvidia CUDA", "url": "https://www.youtube.com/watch?v=r9IqwpMR9TE" },
                 { "label": "No GPU - Replit(Huggingface)", "url": "https://www.youtube.com/watch?v=iqClxAtPOYs" },
                 { "label": "seaborn", "url": "https://www.youtube.com/watch?v=ooqXQ37XHMM" },
+                { "label": "Demo Cloudflare Worker AI", "url": "https://www.youtube.com/watch?v=bUe7cGxItvo" },
+                { "label": "RAG Demo with Ollama", "url": "https://www.youtube.com/watch?v=-1sdWLr3TbI&list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ&index=1" },
+
             ]
         },
        
