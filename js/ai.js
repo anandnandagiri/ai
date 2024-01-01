@@ -11,6 +11,9 @@ var sliderData = {
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
                 { "label": "Langsmith", "url": "https://smith.langchain.com/" },
                 { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },
+                { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
             ]
         },
         {
@@ -27,7 +30,7 @@ var sliderData = {
         {
             "title": "Vector Store",
             "links": [
-                //{ "label": "", "url": "" },
+                
                 { "label": "Google AlloyDB", "url": "https://cloud.google.com/alloydb#all-features" },
                 { "label": "Chroma", "url": "https://www.trychroma.com/" },
                 { "label": "Milvus", "url": "https://milvus.io/" },
