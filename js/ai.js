@@ -64,10 +64,6 @@ var sliderData = {
                 { "label": "FYI", "url": "https://aitools.fyi/" },
                 { "label": "Futurepedia", "url": "https://www.futurepedia.io/" },
                 { "label": "Future Tools", "url": "https://www.futuretools.io/" },
-                { "label": "An AI", "url": "https://theresanaiforthat.com/" },
-                { "label": "Humans", "url": "https://www.toolsforhumans.ai/" },
-                { "label": "FYI", "url": "https://aitools.fyi/" },
-                { "label": "Futurepedia", "url": "https://www.futurepedia.io/" },
             ]
         },
 

@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anand Nandagiri Documentation on AI</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
+</head>
+<body>
+    <div class="container-fluid" id="menu">
+        <a href="./index.html">AI Hub</a>
+        <a href="./resource.html">Resources</a>
+        <a href="./glossary.html">Glossary</a>
+        <a href="./history.html">History</a>
+        <a href="./notes.html">Notes</a>
+    </div>
+    <div class="container-fluid">
+        <div class="row mt-3">
+            <div class="col-md-4 ml-2 pt-4" id="cslider">
+                <div id="slider"></div>
+            </div>            
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="./js/local.js"></script>
+    <script src="./js/core.js"></script>
+    <script>
+        $(document).ready(function () {
+            generateIPLinks(localData, 'slider');            
+        });
+    </script>
+</body>
+</html>

@@ -4,13 +4,13 @@ var firstColData = {
         {
             "title": "Docker Hub",
             "links": [
-                //{ "label": "", "url": "" },
                 { "label": "portainer-ce", "url": "https://hub.docker.com/r/portainer/portainer-ce" },
-                { "label": "Jupyter Notes Datascience", "url": "https://hub.docker.com/r/jupyter/datascience-notebook" },
+                { "label": "Jupyter Hub", "url": "https://hub.docker.com/r/jupyterhub/jupyterhub/" },
+                { "label": "Jupyter Notes Datascience", "url": "https://hub.docker.com/r/jupyter/datascience-notebook" },                
                 { "label": "flowise", "url": "https://hub.docker.com/r/flowiseai/flowise" },
                 { "label": "ollama", "url": "https://hub.docker.com/r/ollama/ollama" },
                 { "label": "ollama WebUI", "url": "https://hub.docker.com/r/ollamawebui/ollama-webui" },
-
+                //{ "label": "", "url": "" },
             ]
         },
          {
@@ -29,6 +29,8 @@ var firstColData = {
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/vllm/" },   
                 { "label": "Google Models", "url": "https://ai.google.dev/models" },
                 { "label": "Google PALM 2", "url": "https://beebom.com/google-palm-2-ai-model/" },
+                { "label": "NVIDIA CUDA Installation", "url": "https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html" },
+                { "label": "NVidia Driver Installation on Azure VM", "url": "https://learn.microsoft.com/en-in/azure/virtual-machines/linux/n-series-driver-setup" },
                 //{ "label": "", "url": "" },
             ]
         },
@@ -38,15 +40,16 @@ var firstColData = {
                 { "label": "ollama", "url": "https://ollama.ai/blog" },               
                 { "label": "vicuna ai model for chatbot", "url": "https://medium.com/mlearning-ai/the-significance-of-vicuna-an-open-source-large-language-model-for-chatbots-23b4765711ff" },
                 { "label": "Best LLMs Under-13B", "url": "https://deci.ai/blog/small-giants-top-10-under-13b-llms-in-open-source/" },
+                //{ "label": "", "url": "" },
             ]
         },
         {
             "title": "GPU Cloud Provider",
             "links": [
-                { "label": "vast.ai", "url": "https://vast.ai/" },
-                { "label": "runpod.io", "url": "https://www.runpod.io/" },
                 { "label": "Cloud GPU Comparison", "url": "https://cloud-gpus.com/" },
-                //{ "label": "", "url": "" },
+                { "label": "vast.ai", "url": "https://vast.ai/" },
+                { "label": "runpod.io", "url": "https://www.runpod.io/" },                
+                { "label": "Azure GPU", "url": "https://learn.microsoft.com/en-in/azure/virtual-machines/sizes-gpu" },
             ]
         },
 
@@ -106,7 +109,7 @@ var secondColData = {
                 { "label": "Demo Cloudflare Worker AI", "url": "https://www.youtube.com/watch?v=bUe7cGxItvo" },
                 { "label": "RAG Demo with Ollama", "url": "https://www.youtube.com/watch?v=-1sdWLr3TbI&list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ&index=1" },
                 { "label": "Playlist of Learn with Mark", "url": "https://www.youtube.com/watch?v=Tg0BaKpaoTg&list=PLw2SS5iImhETln6AD746Bt3XE6bV0xwKD&index=6" },
-                //{ "label": "", "url": "" },
+                { "label": "IBM -Why Open Source LLMs", "url": "https://www.youtube.com/watch?v=y9k-U9AuDeM" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
