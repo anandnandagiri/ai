@@ -62,7 +62,9 @@ var secondColData = {
         {
             "title": "AI Tools",
             "links": [
+                  //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
+                { "label": "UIPath Clipboard AI", "url": "https://www.uipath.com/product/clipboard-ai" },
                 { "label": "SVG Repo", "url": "https://www.svgrepo.com/" },
                 { "label": "Avatar Maker", "url": "https://avatarmaker.com/" },
                 { "label": "Youtube Summary", "url": "https://vidrapid.com/" },
