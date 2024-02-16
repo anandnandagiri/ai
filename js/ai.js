@@ -23,6 +23,8 @@ var sliderData = {
                 { "label": "VICUNA 13B v1.3", "url": "https://huggingface.co/lmsys/vicuna-13b-v1.3" },
                 { "label": "MISTRAL 7B", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
                 { "label": "LLAMA2", "url": "https://huggingface.co/meta-llama" },
+                {"label": "CodeLLAMA","url": "https://huggingface.co/codellama"},
+                {"label": "LLaVa 1.6","url": "https://huggingface.co/liuhaotian/llava-v1.6-34b"},
                 //{ "label": "", "url": "" },
             ]
         },
@@ -53,6 +55,9 @@ var sliderData = {
                 { "label": "privateGPT", "url": "https://github.com/imartinez/privateGPT.git" },
                 { "label": "localGPT", "url": "https://github.com/PromtEngineer/localGPT.git" },
                 { "label": "ONNX Runtime", "url": "https://github.com/microsoft/onnxruntime" },
+                {"label": "CodeLLAMA","url": "https://github.com/facebookresearch/codellama/tree/main"},
+                {"label": "LLaVa 1.6","url": "https://github.com/haotian-liu/LLaVA"},
+                {"label": "LLMware", "url": "https://github.com/llmware-ai/llmware"},
             ]
         },
         {
@@ -87,6 +92,7 @@ var headerData= {
             "links": [
                 { "label": "langchain", "url": "https://www.langchain.com/" },
                 { "label": "LlamaIndex", "url": "https://www.llamaindex.ai/" },	
+                { "label": "LLMware", "url": "https://llmware.ai/"}
                 //{ "label": "", "url": "" },						
             ]
         },
