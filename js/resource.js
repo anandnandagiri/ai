@@ -94,7 +94,7 @@ var secondColData = {
         {
             "title": "Youtube Links",
             "links": [               
-                
+                { "label": "RawDog", "url": "https://www.youtube.com/watch?v=5r86vtZcvJ4" },
                 { "label": "AnythingLLM V2", "url": "https://www.youtube.com/watch?v=f95rGD9trL0" },
                 { "label": "AnythingLLM", "url": "https://www.youtube.com/watch?v=0vZ69AIP_hM" },
                 { "label": "Vector Admin", "url": "https://www.youtube.com/watch?v=cW8Eohz6pzs" },
@@ -111,8 +111,7 @@ var secondColData = {
                 { "label": "Demo Cloudflare Worker AI", "url": "https://www.youtube.com/watch?v=bUe7cGxItvo" },
                 { "label": "RAG Demo with Ollama", "url": "https://www.youtube.com/watch?v=-1sdWLr3TbI&list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ&index=1" },
                 { "label": "Playlist of Learn with Mark", "url": "https://www.youtube.com/watch?v=Tg0BaKpaoTg&list=PLw2SS5iImhETln6AD746Bt3XE6bV0xwKD&index=6" },
-                { "label": "IBM -Why Open Source LLMs", "url": "https://www.youtube.com/watch?v=y9k-U9AuDeM" },
-                //{ "label": "", "url": "" },
+                { "label": "IBM -Why Open Source LLMs", "url": "https://www.youtube.com/watch?v=y9k-U9AuDeM" },                
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
