@@ -22,9 +22,11 @@ var localData = {
             ]
         },
         {
-            "title": "local",
-            "ip": "local",
+            "title": "192.168.29.115",
+            "ip": "192.168.29.115",
             "links": [
+                { "label": "ollama-webui", "scheme": "http", "port": "1254", "url": "/" },
+                { "label": "ollama", "scheme": "http", "port": "11434", "url": "/" },
                 //{ "label": "", "scheme":"https", "port": "", "url": "" },
                 //{ "label": "", "scheme":"https", "port": "", "url": "" },
             ]
