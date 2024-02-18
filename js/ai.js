@@ -13,7 +13,6 @@ var sliderData = {
                 { "label": "Langsmith", "url": "https://smith.langchain.com/" },
                 { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },
                 { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" },
-                { "label": "Ollama Modelfiles", "url": "https://openwebui.com/" },
                  //{ "label": "", "url": "" },
                  //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
