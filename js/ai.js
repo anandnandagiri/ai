@@ -6,7 +6,7 @@ var sliderData = {
             "links": [
                 { "label": "ollma", "url": "https://ollama.ai/" },
                 { "label": "Ollama Modelfiles", "url": "https://openwebui.com/" },
-                { "label": "AnythinkLLM", "url": "https://useanything.com/" },
+                { "label": "AnythingLLM", "url": "https://useanything.com/" },
                 { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },                
                 { "label": "LM Studio", "url": "https://lmstudio.ai/" },
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
