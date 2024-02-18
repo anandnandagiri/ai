@@ -49,7 +49,9 @@ var sliderData = {
         {
             "title": "AI GitHub",
             "links": [
-                //{ "label": "", "url": "" },
+                 //{ "label": "", "url": "" },
+                 //{ "label": "", "url": "" },
+                { "label": "RawDog", "url": "https://github.com/AbanteAI/rawdog" },
                 { "label": "langchain", "url": "https://github.com/langchain-ai/langchain/tree/master" },
                 { "label": "ollama", "url": "https://github.com/jmorganca/ollama" },
                 { "label": "anything-llm", "url": "https://github.com/Mintplex-Labs/anything-llm" },
