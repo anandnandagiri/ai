@@ -5,6 +5,7 @@ var sliderData = {
             "title": "LLM Tools",
             "links": [
                 { "label": "ollma", "url": "https://ollama.ai/" },
+                { "label": "VSCode Cody", "url": "https://sourcegraph.com/cody" },
                 { "label": "Ollama Modelfiles", "url": "https://openwebui.com/" },
                 { "label": "AnythingLLM", "url": "https://useanything.com/" },
                 { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },                
@@ -12,8 +13,7 @@ var sliderData = {
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
                 { "label": "Langsmith", "url": "https://smith.langchain.com/" },
                 { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },
-                { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" },
-                 //{ "label": "", "url": "" },
+                { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" },                
                  //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
