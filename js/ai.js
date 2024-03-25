@@ -50,7 +50,8 @@ var sliderData = {
             "title": "AI GitHub",
             "links": [
                  //{ "label": "", "url": "" },
-                 { "label": "phidat AI Assistants using function calling", "url": "https://github.com/phidatahq/phidata" },
+                { "label": "Vanna AI RAG Framework for SQL Generation", "url": "https://github.com/vanna-ai/vanna" },
+                { "label": "phidat AI Assistants using function calling", "url": "https://github.com/phidatahq/phidata" },
                 { "label": "RawDog", "url": "https://github.com/AbanteAI/rawdog" },
                 { "label": "langchain", "url": "https://github.com/langchain-ai/langchain/tree/master" },
                 { "label": "ollama", "url": "https://github.com/jmorganca/ollama" },
