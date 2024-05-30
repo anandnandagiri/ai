@@ -4,6 +4,7 @@ var sliderData = {
         {
             "title": "LLM Tools",
             "links": [
+                { "label": "Blog Running Tiny LLM On Arduino", "url": "https://www.edgeimpulse.com/blog/llm-knowledge-distillation-gpt-4o/" },
                 { "label": "ollma", "url": "https://ollama.ai/" },
                 { "label": "VSCode Cody", "url": "https://sourcegraph.com/cody" },
                 { "label": "VSCode CodeGPT", "url": "https://codegpt.co/" },
