@@ -6,6 +6,7 @@ var sliderData = {
             "links": [
                 { "label": "Blog Running Tiny LLM On Arduino", "url": "https://www.edgeimpulse.com/blog/llm-knowledge-distillation-gpt-4o/" },
                 { "label": "ollma", "url": "https://ollama.ai/" },
+                { "label": "VSCode Codeium", "url": "https://codeium.com/compare/comparison-copilot-codeium" },
                 { "label": "VSCode Cody", "url": "https://sourcegraph.com/cody" },
                 { "label": "VSCode CodeGPT", "url": "https://codegpt.co/" },
                 { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },
