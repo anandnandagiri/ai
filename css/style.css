@@ -1,5 +1,5 @@
 body {
-    background-color: #e3b8be;
+    background-color: #e3b8beab;
     font-size: 20px;
     color: white;
 }
@@ -27,8 +27,8 @@ h5 {
 }
 
 .btn-primary {
-    background-color: deeppink;
-    border-color: deeppink;
+    background-color: #ff1493c4;
+    border-color: #ff1493c4;
 }
 
 #cheader {
