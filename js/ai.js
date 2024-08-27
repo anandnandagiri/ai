@@ -6,6 +6,7 @@ var sliderData = {
             "links": [
                 { "label": "Ollama", "url": "https://ollama.ai/" },
                 { "label": "Ollama Open WebUI", "url": "https://openwebui.com/" },
+                { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" }, 
                 { "label": "Blog Running Tiny LLM On Arduino", "url": "https://www.edgeimpulse.com/blog/llm-knowledge-distillation-gpt-4o/" },                
                 { "label": "VSCode Codeium", "url": "https://codeium.com/compare/comparison-copilot-codeium" },
                 { "label": "VSCode Cody", "url": "https://sourcegraph.com/cody" },
@@ -15,8 +16,7 @@ var sliderData = {
                 { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },                
                 { "label": "LM Studio", "url": "https://lmstudio.ai/" },
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
-                { "label": "Langsmith", "url": "https://smith.langchain.com/" },                
-                { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" },                
+                { "label": "Langsmith", "url": "https://smith.langchain.com/" },                                               
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
@@ -24,6 +24,7 @@ var sliderData = {
         {
             "title": "LLM Models",
             "links": [
+                { "label": "Ollama Based LLM Models", "url": "https://ollama.com/library" },
                 { "label": "ORCA 2 7B", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
                 { "label": "VICUNA 13B v1.3", "url": "https://huggingface.co/lmsys/vicuna-13b-v1.3" },
                 { "label": "MISTRAL 7B", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },
