@@ -50,7 +50,7 @@ var sliderData = {
             ]
         },     
         {
-            "title": "AI GitHub",
+            "title": "GitHub - Source Code",
             "links": [
                  //{ "label": "", "url": "" },
                 { "label": "Vanna AI RAG Framework for SQL Generation", "url": "https://github.com/vanna-ai/vanna" },
@@ -69,7 +69,7 @@ var sliderData = {
             ]
         },
         {
-            "title": "AI Tools DB",
+            "title": "AI DB Search for AI Tools",
             "links": [
                 { "label": "Future Tools", "url": "https://www.futuretools.io/" },
                 { "label": "An AI", "url": "https://theresanaiforthat.com/" },
@@ -87,7 +87,7 @@ var sliderData = {
 var headerData= {
     "headers": [
         {
-            "title": "AI Platforms",
+            "title": "Platforms",
             "links": [
                 { "label": "huggingface", "url": "https://huggingface.co/" },
                 { "label": "kaggle", "url": "https://www.kaggle.com/" },
@@ -96,7 +96,7 @@ var headerData= {
             ]
         },
         {
-            "title": "AI Framework",
+            "title": "Framework",
             "links": [
                 { "label": "langchain", "url": "https://www.langchain.com/" },
                 { "label": "LlamaIndex", "url": "https://www.llamaindex.ai/" },	
@@ -105,7 +105,7 @@ var headerData= {
             ]
         },
         {
-            "title": "AI Low/No Code",
+            "title": "Low/No Code",
             "links": [
                 { "label": "Flowise", "url": "https://flowiseai.com/" },
                 { "label": "LangFlow", "url": "https://www.langflow.org/" },
@@ -114,7 +114,7 @@ var headerData= {
         },
 
         {
-            "title": "AI Engine",
+            "title": "Engine",
             "links": [
                 { "label": "ONNX Runtime", "url": "https://onnxruntime.ai/" },
                 //{ "label": "", "url": "" },						
