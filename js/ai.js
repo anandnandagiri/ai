@@ -4,13 +4,13 @@ var sliderData = {
         {
             "title": "LLM Tools",
             "links": [
-                { "label": "Blog Running Tiny LLM On Arduino", "url": "https://www.edgeimpulse.com/blog/llm-knowledge-distillation-gpt-4o/" },
-                { "label": "ollma", "url": "https://ollama.ai/" },
+                { "label": "Ollama", "url": "https://ollama.ai/" },
+                { "label": "Ollama Open WebUI", "url": "https://openwebui.com/" },
+                { "label": "Blog Running Tiny LLM On Arduino", "url": "https://www.edgeimpulse.com/blog/llm-knowledge-distillation-gpt-4o/" },                
                 { "label": "VSCode Codeium", "url": "https://codeium.com/compare/comparison-copilot-codeium" },
                 { "label": "VSCode Cody", "url": "https://sourcegraph.com/cody" },
                 { "label": "VSCode CodeGPT", "url": "https://codegpt.co/" },
-                { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },
-                { "label": "Ollama Modelfiles", "url": "https://openwebui.com/" },
+                { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },                
                 { "label": "AnythingLLM", "url": "https://useanything.com/" },
                 { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },                
                 { "label": "LM Studio", "url": "https://lmstudio.ai/" },
