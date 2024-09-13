@@ -6,6 +6,8 @@ var sliderData = {
             "links": [
                 { "label": "Ollama", "url": "https://ollama.ai/" },
                 { "label": "Ollama Open WebUI", "url": "https://openwebui.com/" },
+                { "label": "Open WebUI Model System Prompt", "url": "https://openwebui.com/models" },
+                { "label": "Open WebUI Model Function Call", "url": "https://openwebui.com/functions" },
                 { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" }, 
                 { "label": "Blog Running Tiny LLM On Arduino", "url": "https://www.edgeimpulse.com/blog/llm-knowledge-distillation-gpt-4o/" },                
                 { "label": "VSCode Codeium", "url": "https://codeium.com/compare/comparison-copilot-codeium" },
