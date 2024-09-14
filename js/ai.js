@@ -31,9 +31,10 @@ var sliderData = {
                 { "label": "Meta LLAMA", "url": "https://huggingface.co/meta-llama" },
                 {"label": "Code LLAMA","url": "https://huggingface.co/codellama"},
                 { "label": "Tiny LLAMA", "url": "https://huggingface.co/TinyLlama" },                
-                { "label": "MISTRAL 7B", "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1" },                
-                {"label": "LLaVa 1.6","url": "https://huggingface.co/liuhaotian/llava-v1.6-34b"},
-                { "label": "VICUNA 13B v1.3", "url": "https://huggingface.co/lmsys/vicuna-13b-v1.3" },
+                { "label": "MISTRAL 7B", "url": "https://huggingface.co/mistralai" },                
+                { "label": "duckdb-nql Text2Sql", "url": "https://huggingface.co/motherduckdb" },
+                {"label": "LLaVa 1.6","url": "https://huggingface.co/liuhaotian/llava-v1.6-34b"},                
+                { "label": "VICUNA 13B v1.3", "url": "https://huggingface.co/lmsys/vicuna-13b-v1.3" },                
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
