@@ -103,6 +103,7 @@ var secondColData = {
         {
             "title": "Youtube Links",
             "links": [               
+                { "label": "Anand AI Youtube List", "url": "https://www.youtube.com/playlist?list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ" },
                 { "label": "RawDog", "url": "https://www.youtube.com/watch?v=5r86vtZcvJ4" },
                 { "label": "VSCode CodeGPT", "url": "https://www.youtube.com/watch?v=6dkMwIu1Q1g" },
                 { "label": "AnythingLLM V2", "url": "https://www.youtube.com/watch?v=f95rGD9trL0" },
@@ -122,8 +123,7 @@ var secondColData = {
                 { "label": "RAG Demo with Ollama", "url": "https://www.youtube.com/watch?v=-1sdWLr3TbI&list=PLEEpsxxj8C3KNFNfbqeJcAxBJrwwUXOVQ&index=1" },
                 { "label": "Playlist of Learn with Mark", "url": "https://www.youtube.com/watch?v=Tg0BaKpaoTg&list=PLw2SS5iImhETln6AD746Bt3XE6bV0xwKD&index=6" },
                 { "label": "IBM -Why Open Source LLMs", "url": "https://www.youtube.com/watch?v=y9k-U9AuDeM" },                
-                { "label": "phidata AI Assistants using function calling", "url": "https://www.youtube.com/watch?v=fLGj63fiYfM" },                
-                //{ "label": "", "url": "" },
+                { "label": "phidata AI Assistants using function calling", "url": "https://www.youtube.com/watch?v=fLGj63fiYfM" },       
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
