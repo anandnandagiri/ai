@@ -37,9 +37,12 @@ var firstColData = {
         {
             "title": "Blogs",
             "links": [
+                { "label": "GitHub Copilot VSCode", "url": "https://github.com/features/copilot/getting-started" },
                 { "label": "ollama", "url": "https://ollama.ai/blog" },               
                 { "label": "vicuna ai model for chatbot", "url": "https://medium.com/mlearning-ai/the-significance-of-vicuna-an-open-source-large-language-model-for-chatbots-23b4765711ff" },
                 { "label": "Best LLMs Under-13B", "url": "https://deci.ai/blog/small-giants-top-10-under-13b-llms-in-open-source/" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
         },
