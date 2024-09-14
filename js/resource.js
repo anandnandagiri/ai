@@ -52,6 +52,12 @@ var firstColData = {
                 { "label": "Azure GPU", "url": "https://learn.microsoft.com/en-in/azure/virtual-machines/sizes-gpu" },
             ]
         },
+        {
+            "title": "Misc",
+            "links": [
+                { "label": "Pop OS with NVIDIA Drivers", "url": "https://pop.system76.com/" },                
+            ]
+        },
 
     ]
 };
