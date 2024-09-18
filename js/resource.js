@@ -2,6 +2,14 @@
 var firstColData = {
     "headers": [
         {
+            "title": "Huggingface.co",
+            "links": [
+                { "label": "Optimum", "url": "https://huggingface.co/docs/optimum/index" },
+                { "label": "INTEL OpenVINO", "url": "https://huggingface.co/docs/optimum/main/en/intel/openvino/export" },                
+                //{ "label": "", "url": "" },
+            ]
+        },
+        {
             "title": "Docker Hub",
             "links": [
                 { "label": "portainer-ce", "url": "https://hub.docker.com/r/portainer/portainer-ce" },
