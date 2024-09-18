@@ -2,10 +2,12 @@
 var firstColData = {
     "headers": [
         {
-            "title": "Huggingface.co",
+            "title": "Accelerator",
             "links": [
-                { "label": "Optimum", "url": "https://huggingface.co/docs/optimum/index" },
-                { "label": "INTEL OpenVINO", "url": "https://huggingface.co/docs/optimum/main/en/intel/openvino/export" },                
+                { "label": "Huggingface Optimum", "url": "https://huggingface.co/docs/optimum/index" },
+                { "label": "INTEL OpenVINO", "url": "https://huggingface.co/docs/optimum/main/en/intel/openvino/export" },  
+                { "label": "OpenVINO Toolkit", "url": "https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html" },
+                { "label": "GitHub OpenVINO Model Server", "url": "https://github.com/openvinotoolkit/model_server" },
                 //{ "label": "", "url": "" },
             ]
         },
