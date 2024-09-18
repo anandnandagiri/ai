@@ -134,7 +134,7 @@ var secondColData = {
                 { "label": "Playlist of Learn with Mark", "url": "https://www.youtube.com/watch?v=Tg0BaKpaoTg&list=PLw2SS5iImhETln6AD746Bt3XE6bV0xwKD&index=6" },
                 { "label": "IBM -Why Open Source LLMs", "url": "https://www.youtube.com/watch?v=y9k-U9AuDeM" },                
                 { "label": "phidata AI Assistants using function calling", "url": "https://www.youtube.com/watch?v=fLGj63fiYfM" },       
-                //{ "label": "", "url": "" },
+                { "label": "Neuralmagic vs ONNX", "url": "https://www.youtube.com/watch?v=GfLkt5wNlXw" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
