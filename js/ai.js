@@ -25,8 +25,9 @@ var sliderData = {
         },
         {
             "title": "LLM Models",
-            "links": [
+            "links": [                
                 { "label": "Ollama Based LLM Models", "url": "https://ollama.com/library" },
+                { "label": "INTEL Openvino", "url": "https://huggingface.co/openvino" },
                 { "label": "Microsoft ORCA 2 7B", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
                 { "label": "Meta LLAMA", "url": "https://huggingface.co/meta-llama" },
                 {"label": "Code LLAMA","url": "https://huggingface.co/codellama"},
