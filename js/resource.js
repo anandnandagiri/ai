@@ -51,7 +51,7 @@ var firstColData = {
                 { "label": "ollama", "url": "https://ollama.ai/blog" },               
                 { "label": "vicuna ai model for chatbot", "url": "https://medium.com/mlearning-ai/the-significance-of-vicuna-an-open-source-large-language-model-for-chatbots-23b4765711ff" },
                 { "label": "Best LLMs Under-13B", "url": "https://deci.ai/blog/small-giants-top-10-under-13b-llms-in-open-source/" },
-                //{ "label": "", "url": "" },
+                { "label": "Fine-tune Llama 3.1 - Unsloth", "url": "https://huggingface.co/blog/mlabonne/sft-llama3" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
