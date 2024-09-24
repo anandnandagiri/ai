@@ -28,7 +28,8 @@ var sliderData = {
             "links": [                
                 { "label": "Ollama Based LLM Models", "url": "https://ollama.com/library" },
                 { "label": "INTEL Openvino", "url": "https://huggingface.co/openvino" },
-                { "label": "Microsoft ORCA 2 7B", "url": "https://huggingface.co/microsoft/Orca-2-7b" },
+                { "label": "Microsoft ORCA, Phi", "url": "https://huggingface.co/microsoft/" },
+                { "label": "Google Gemma", "url": "https://huggingface.co/google" },
                 { "label": "Meta LLAMA", "url": "https://huggingface.co/meta-llama" },
                 {"label": "Code LLAMA","url": "https://huggingface.co/codellama"},
                 { "label": "Tiny LLAMA", "url": "https://huggingface.co/TinyLlama" },                
@@ -36,7 +37,7 @@ var sliderData = {
                 { "label": "duckdb-nql Text2Sql", "url": "https://huggingface.co/motherduckdb" },
                 {"label": "LLaVa 1.6","url": "https://huggingface.co/liuhaotian/llava-v1.6-34b"},                
                 { "label": "VICUNA 13B v1.3", "url": "https://huggingface.co/lmsys/vicuna-13b-v1.3" },                
-                //{ "label": "", "url": "" },
+                //{ "label": "Google Gemma", "url": "https://huggingface.co/google" },
                 //{ "label": "", "url": "" },
             ]
         },
