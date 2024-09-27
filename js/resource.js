@@ -9,6 +9,9 @@ var firstColData = {
                 { "label": "INTEL OpenVINO Toolkit", "url": "https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html" },
                 { "label": "OpenVINO", "url": "https://docs.openvino.ai/2024/index.html" },
                 { "label": "GitHub OpenVINO Model Server", "url": "https://github.com/openvinotoolkit/model_server" },
+                { "label": "Prompt Engineering Guide", "url": "https://www.promptingguide.ai/" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
             ]
         },
         {
@@ -20,7 +23,7 @@ var firstColData = {
                 { "label": "flowise", "url": "https://hub.docker.com/r/flowiseai/flowise" },
                 { "label": "ollama", "url": "https://hub.docker.com/r/ollama/ollama" },
                 { "label": "ollama WebUI", "url": "https://hub.docker.com/r/ollamawebui/ollama-webui" },
-                //{ "label": "", "url": "" },
+               //{ "label": "", "url": "" },
             ]
         },
          {
@@ -68,7 +71,9 @@ var firstColData = {
         {
             "title": "Misc",
             "links": [
-                { "label": "Pop OS with NVIDIA Drivers", "url": "https://pop.system76.com/" },                
+                { "label": "Pop OS with NVIDIA Drivers", "url": "https://pop.system76.com/" },       
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
             ]
         },
 
