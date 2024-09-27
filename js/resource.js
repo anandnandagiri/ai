@@ -44,6 +44,8 @@ var firstColData = {
                 { "label": "NVidia Driver Installation on Azure VM", "url": "https://learn.microsoft.com/en-in/azure/virtual-machines/linux/n-series-driver-setup" },
                 { "label": "Prompt Engineering Guide", "url": "https://www.promptingguide.ai/" },
                 { "label": "Hugging Face NLP Course", "url": "https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt" },
+                { "label": "vLLM", "url": "https://docs.vllm.ai/en/latest/getting_started/installation.html" },
+                //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
         },
