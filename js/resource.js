@@ -9,8 +9,6 @@ var firstColData = {
                 { "label": "INTEL OpenVINO Toolkit", "url": "https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html" },
                 { "label": "OpenVINO", "url": "https://docs.openvino.ai/2024/index.html" },
                 { "label": "GitHub OpenVINO Model Server", "url": "https://github.com/openvinotoolkit/model_server" },
-                { "label": "Prompt Engineering Guide", "url": "https://www.promptingguide.ai/" },
-                //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
         },
@@ -36,7 +34,7 @@ var firstColData = {
             ]
         },
         {
-            "title": "Documentation",
+            "title": "Documentation/Courses",
             "links": [
                 { "label": "ollama Supported Models", "url": "https://ollama.ai/library" },
                 { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/vllm/" },   
@@ -44,6 +42,8 @@ var firstColData = {
                 { "label": "Google PALM 2", "url": "https://beebom.com/google-palm-2-ai-model/" },
                 { "label": "NVIDIA CUDA Installation", "url": "https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html" },
                 { "label": "NVidia Driver Installation on Azure VM", "url": "https://learn.microsoft.com/en-in/azure/virtual-machines/linux/n-series-driver-setup" },
+                { "label": "Prompt Engineering Guide", "url": "https://www.promptingguide.ai/" },
+                { "label": "Hugging Face NLP Course", "url": "https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt" },
                 //{ "label": "", "url": "" },
             ]
         },
