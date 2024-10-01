@@ -59,6 +59,7 @@ var sliderData = {
         {
             "title": "GitHub - Source Code",
             "links": [
+                 { "label": "OpenVINO Toolkit", "url": "https://github.com/openvinotoolkit" },
                 { "label": "unsloth - Finetune Models", "url": "https://github.com/unslothai/unsloth" },
                 { "label": "Vanna AI RAG Framework for SQL Generation", "url": "https://github.com/vanna-ai/vanna" },
                 { "label": "phidat AI Assistants using function calling", "url": "https://github.com/phidatahq/phidata" },
@@ -72,7 +73,7 @@ var sliderData = {
                 { "label": "ONNX Runtime", "url": "https://github.com/microsoft/onnxruntime" },
                 {"label": "CodeLLAMA","url": "https://github.com/facebookresearch/codellama/tree/main"},
                 {"label": "LLaVa 1.6","url": "https://github.com/haotian-liu/LLaVA"},
-                {"label": "LLMware", "url": "https://github.com/llmware-ai/llmware"},
+                {"label": "LLMware", "url": "https://github.com/llmware-ai/llmware"},               
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
