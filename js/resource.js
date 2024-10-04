@@ -10,6 +10,8 @@ var firstColData = {
                 { "label": "OpenVINO", "url": "https://docs.openvino.ai/2024/index.html" },
                 { "label": "GitHub OpenVINO Model Server", "url": "https://github.com/openvinotoolkit/model_server" },
                 //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
             ]
         },
         {
@@ -22,6 +24,7 @@ var firstColData = {
                 { "label": "ollama", "url": "https://hub.docker.com/r/ollama/ollama" },
                 { "label": "ollama WebUI", "url": "https://hub.docker.com/r/ollamawebui/ollama-webui" },
                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
             ]
         },
          {
@@ -75,6 +78,8 @@ var firstColData = {
             "links": [
                 { "label": "Pop OS with NVIDIA Drivers", "url": "https://pop.system76.com/" },       
                 { "label": "Microsoft Opensource Projects", "url": "https://opensource.microsoft.com/projects/" },
+                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
             ]
         },
