@@ -79,7 +79,7 @@ var firstColData = {
                 { "label": "Pop OS with NVIDIA Drivers", "url": "https://pop.system76.com/" },       
                 { "label": "Microsoft Opensource Projects", "url": "https://opensource.microsoft.com/projects/" },
                 { "label": ".NET YARP (Reverse Proxy)", "url": "https://github.com/microsoft/reverse-proxy" },
-                //{ "label": "", "url": "" },
+                { "label": "Running LLM GPU Memory Calculator", "url": "https://aifusion.company/gpu-llm/" },
                 //{ "label": "", "url": "" },
             ]
         },
