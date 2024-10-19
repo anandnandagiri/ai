@@ -78,8 +78,8 @@
             we using Mount folder)</span
           >
           <code
-            >mkdir /mnt/c/myfolder<br />mkdir /mnt/c/myfolder/ovmodels<br />mkdir
-            /mnt/c/myfolder/git<button class="copy-button">Copy</button></code
+            >mkdir /mnt/c/myfolder<br/>mkdir /mnt/c/myfolder/llm<br />mkdir /mnt/c/myfolder/llm/ovmodels<br />mkdir
+            /mnt/c/myfolder/llm/git<button class="copy-button">Copy</button></code
           >
         </div>
       </div>
@@ -100,7 +100,7 @@
         <div class="card">
           <span><b>Step 6:</b> Flowise Installation</span>
           <code
-            >cd /mnt/c/myfolder/git<br />git clone
+            >cd /mnt/c/myfolder/llm/git<br />git clone
             https://github.com/FlowiseAI/Flowise.git<br />cd Flowise<br />docker
             build --no-cache -t flowise .<br />docker run --restart always -d
             --name flowise -p 3000:3000 flowise<button class="copy-button">Copy</button></code
