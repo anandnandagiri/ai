@@ -131,7 +131,7 @@
                 var codeElement = this.parentElement;
                 console.log(codeElement);
                 var codeContent = codeElement.innerHTML
-                    .replace(/<br\s*\/?>/gi, '') // Replace <br> with newline
+                    .replace(/<br\s*\/?>/gi, '\n') // Replace <br> with newline
                     .replace(/<button.*<\/button>/gi, '') // Remove button HTML
                     .replace(/&lt;/g, '<') // Decode HTML entities
                     .replace(/&gt;/g, '>')
