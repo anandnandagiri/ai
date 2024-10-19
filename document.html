@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="refresh" content="100" />
+    <title>Setup Instructions</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <style>
+   .card {
+            border: 1px solid #ccc;
+            padding: 16px;
+            margin: 16px;
+            border-radius: 8px;
+        }
+        .copy-button {
+            margin-left: 8px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="co1-md-12">lol</div>
+
+      <div class="col-md-12 my-2">
+        <div class="card">
+          <span
+            ><b>Step 1:</b> Install Ubuntu 24.02 App from Microsoft Store</span
+          >
+          <code>apt update && apt upgrade<button class="copy-button">Copy</button></code>
+          
+        </div>
+      </div>
+      <div class="col-md-12 my-2">
+        <div class="card">
+          <span><b>Step 2:</b> Install Docker & Other Tools on Ubuntu</span>
+          <code>apt install docker.io htop net-tools<button class="copy-button">Copy</button></code>
+        </div>
+      </div>
+      <div class="col-md-12 my-2">
+        <div class="card">
+          <span><b>Step 3:</b> Conda Installation</span>
+          <code>mkdir -p ~/miniconda3 
+            <br />wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh 
+            <br />bash ~/miniconda3/miniconda.sh -b
+            <br />rm ~/miniconda3/miniconda.sh 
+            <br />source  ~/miniconda3/bin/activate 
+            <br />conda init --all
+            <button class="copy-button">Copy</button>
+          </code>
+        </div>
+      </div>
+      <div class="col-md-12 my-2">
+        <div class="card">
+          <span
+            ><b>Step 4:</b> Local Setup (Folders will be created in Windows as
+            we using Mount folder)</span
+          >
+          <code
+            >mkdir /mnt/c/myfolder<br />mkdir /mnt/c/myfolder/ovmodels<br />mkdir
+            /mnt/c/myfolder/git<button class="copy-button">Copy</button></code
+          >
+        </div>
+      </div>
+      <div class="col-md-12 my-2">
+        <div class="card">
+          <span><b>Step 5:</b> OpenVINO Model Server Installation</span>
+          <code
+            >conda create --name OpenVINO312 python=3.12<br />conda activate
+            OpenVINO312<br />pip install --upgrade --upgrade-strategy eager
+            "optimum[openvino]"<br />docker pull
+            openvino/model_server:latest-gpu<button class="copy-button">Copy</button></code
+          >
+        </div>
+      </div>
+      <div class="col-md-12 my-2">
+        <div class="card">
+          <span><b>Step 6:</b> Flowise Installation</span>
+          <code
+            >cd /mnt/c/myfolder/git<br />git clone
+            https://github.com/FlowiseAI/Flowise.git<br />cd Flowise<br />docker
+            build --no-cache -t flowise .<br />docker run --restart always -d
+            --name flowise -p 3000:3000 flowise<button class="copy-button">Copy</button></code
+          >
+        </div>
+      </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.querySelectorAll('.copy-button').forEach(button => {
+            button.addEventListener('click', function() {
+                var codeElement = this.parentElement;
+                console.log(codeElement);
+                var codeContent = codeElement.innerHTML
+                    .replace(/<br\s*\/?>/gi, '') // Replace <br> with newline
+                    .replace(/<button.*<\/button>/gi, '') // Remove button HTML
+                    .replace(/&lt;/g, '<') // Decode HTML entities
+                    .replace(/&gt;/g, '>')
+                    .replace(/&amp;/g, '&')
+                    .trim();
+                var tempInput = document.createElement('textarea');
+                tempInput.value = codeContent;
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                document.execCommand('copy');
+                document.body.removeChild(tempInput);
+                alert('Copied to clipboard: ' + codeContent);
+            });
+        });
+    </script>
+  </body>
+</html>
