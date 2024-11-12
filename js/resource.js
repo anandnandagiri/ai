@@ -62,8 +62,7 @@ var firstColData = {
                 { "label": "Fine-tune Llama 3.1 - Unsloth", "url": "https://huggingface.co/blog/mlabonne/sft-llama3" },
                 { "label": "OpenVINO GenAI - Local", "url": "https://huggingface.co/blog/deploy-with-openvino" },
                 //{ "label": "", "url": "" },
-                //{ "label": "", "url": "" },
-                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },                
             ]
         },
         {
@@ -71,7 +70,8 @@ var firstColData = {
             "links": [
                 { "label": "Cloud GPU Comparison", "url": "https://cloud-gpus.com/" },
                 { "label": "vast.ai", "url": "https://vast.ai/" },
-                { "label": "runpod.io", "url": "https://www.runpod.io/" },                
+                { "label": "runpod.io", "url": "https://www.runpod.io/" },     
+                { "label": "salad", "url": "https://salad.com/pricing" },
                 { "label": "Azure GPU", "url": "https://learn.microsoft.com/en-in/azure/virtual-machines/sizes-gpu" },
             ]
         },
