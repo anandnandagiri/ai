@@ -1,28 +1,7 @@
 
 var sliderData = {
     "headers": [
-        {
-            "title": "LLM Tools",
-            "links": [
-                { "label": "Ollama", "url": "https://ollama.ai/" },
-                { "label": "Ollama Open WebUI", "url": "https://openwebui.com/" },
-                { "label": "Open WebUI Model System Prompt", "url": "https://openwebui.com/models" },
-                { "label": "Open WebUI Model Function Call", "url": "https://openwebui.com/functions" },
-                { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" }, 
-                { "label": "Blog Running Tiny LLM On Arduino", "url": "https://www.edgeimpulse.com/blog/llm-knowledge-distillation-gpt-4o/" },                
-                { "label": "VSCode Codeium", "url": "https://codeium.com/compare/comparison-copilot-codeium" },
-                { "label": "VSCode Cody", "url": "https://sourcegraph.com/cody" },
-                { "label": "VSCode CodeGPT", "url": "https://codegpt.co/" },
-                { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },                
-                { "label": "AnythingLLM", "url": "https://useanything.com/" },
-                { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },                
-                { "label": "LM Studio", "url": "https://lmstudio.ai/" },
-                { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
-                { "label": "Langsmith", "url": "https://smith.langchain.com/" },                                               
-                //{ "label": "", "url": "" },
-                //{ "label": "", "url": "" },
-            ]
-        },
+      
         {
             "title": "LLM Models",
             "links": [                
@@ -41,7 +20,30 @@ var sliderData = {
                 //{ "label": "", "url": "" },
             ]
         },
-
+      {
+                "title": "LLM Tools",
+                "links": [
+                    { "label": "Ollama", "url": "https://ollama.ai/" },
+                    { "label": "OpenRouter Unified Intereface LLM Free Tier", "url": "https://openrouter.ai/" },
+                     //{ "label": "", "url": "" },
+                    { "label": "Ollama Open WebUI", "url": "https://openwebui.com/" },
+                    { "label": "Open WebUI Model System Prompt", "url": "https://openwebui.com/models" },
+                    { "label": "Open WebUI Model Function Call", "url": "https://openwebui.com/functions" },
+                    { "label": "Executable Model with llamafile", "url": "https://github.com/Mozilla-Ocho/llamafile" }, 
+                    { "label": "Blog Running Tiny LLM On Arduino", "url": "https://www.edgeimpulse.com/blog/llm-knowledge-distillation-gpt-4o/" },                
+                    { "label": "VSCode Codeium", "url": "https://codeium.com/compare/comparison-copilot-codeium" },
+                    { "label": "VSCode Cody", "url": "https://sourcegraph.com/cody" },
+                    { "label": "VSCode CodeGPT", "url": "https://codegpt.co/" },
+                    { "label": "Gradient CLI Fine Tune Model", "url": "https://www.gradient.ai/" },                
+                    { "label": "AnythingLLM", "url": "https://useanything.com/" },
+                    { "label": "GPT4ALL", "url": "https://gpt4all.io/index.html" },                
+                    { "label": "LM Studio", "url": "https://lmstudio.ai/" },
+                    { "label": "Mistral vLLM", "url": "https://docs.mistral.ai/self-deployment/overview" },
+                    { "label": "Langsmith", "url": "https://smith.langchain.com/" },                                               
+                    //{ "label": "", "url": "" },
+                    //{ "label": "", "url": "" },
+                ]
+            },
         {
             "title": "Vector Store",
             "links": [
