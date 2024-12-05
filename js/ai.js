@@ -105,9 +105,11 @@ var headerData= {
             "title": "Platforms",
             "links": [
                 { "label": "huggingface", "url": "https://huggingface.co/" },
-                { "label": "kaggle", "url": "https://www.kaggle.com/" },
+                { "label": "Replicate making machine learning models more accessible", "url": "https://replicate.com/home" },
+                { "label": "kaggle", "url": "https://www.kaggle.com/" },                
                 { "label": "Google Colab", "url": "https://colab.research.google.com/" },
-                //{ "label": "", "url": "" },
+                //{ "label": "", "url": "" },						
+                //{ "label": "", "url": "" },						
             ]
         },
         {
