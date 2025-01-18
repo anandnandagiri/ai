@@ -61,6 +61,7 @@ var sliderData = {
         {
             "title": "GitHub - Source Code",
             "links": [
+                { "label": "Azure AI Templates", "url": "https://azure.github.io/ai-app-templates/" },
                 { "label": "Exo Run Your Own AI Cluster", "url": "https://github.com/exo-explore/exo" },
                  { "label": "OpenVINO Toolkit", "url": "https://github.com/openvinotoolkit" },
                 { "label": "unsloth - Finetune Models", "url": "https://github.com/unslothai/unsloth" },
@@ -77,7 +78,7 @@ var sliderData = {
                 {"label": "CodeLLAMA","url": "https://github.com/facebookresearch/codellama/tree/main"},
                 {"label": "LLaVa 1.6","url": "https://github.com/haotian-liu/LLaVA"},
                 {"label": "LLMware", "url": "https://github.com/llmware-ai/llmware"},               
-                //{ "label": "", "url": "" },
+                
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
