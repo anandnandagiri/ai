@@ -65,6 +65,7 @@ var sliderData = {
                 { "label": "Exo Run Your Own AI Cluster", "url": "https://github.com/exo-explore/exo" },
                  { "label": "OpenVINO Toolkit", "url": "https://github.com/openvinotoolkit" },
                 { "label": "unsloth - Finetune Models", "url": "https://github.com/unslothai/unsloth" },
+                { "label": "Vector Search, RAG", "url": "https://github.com/oramasearch/orama" },
                 { "label": "Vanna AI RAG Framework for SQL Generation", "url": "https://github.com/vanna-ai/vanna" },
                 { "label": "phidat AI Assistants using function calling", "url": "https://github.com/phidatahq/phidata" },
                 { "label": "RawDog", "url": "https://github.com/AbanteAI/rawdog" },
@@ -78,7 +79,7 @@ var sliderData = {
                 {"label": "CodeLLAMA","url": "https://github.com/facebookresearch/codellama/tree/main"},
                 {"label": "LLaVa 1.6","url": "https://github.com/haotian-liu/LLaVA"},
                 {"label": "LLMware", "url": "https://github.com/llmware-ai/llmware"},               
-                
+                //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
                 //{ "label": "", "url": "" },
